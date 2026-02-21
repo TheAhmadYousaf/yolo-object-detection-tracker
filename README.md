@@ -36,7 +36,7 @@ Upload any image or video from your PC and this notebook will:
 ## How to Run
 
 1. Open the notebook in Google Colab  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheAhmadYousaf/yolo-object-detection-tracker/blob/main/Object_Detection_Tracking.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheAhmadYousaf/yolo-object-detection-tracker/blob/main/Object_Detection_Tracking%20(1).ipynb)
 
 2. Run all cells — libraries install automatically
 3. When prompted, **upload your image or video** from your PC
